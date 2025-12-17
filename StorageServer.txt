@@ -1,4 +1,0 @@
-Reference:
-
-1. https://linuxhint.com/install_iscsi_storage_server_centos/
-2. 
