@@ -357,13 +357,12 @@ fi
 ---
 
 > ✨ **Maintained by**: Sumon  
-> 🏠 **Lab Setup**: Ubuntu 22.04 LTS, MikroTik Router, Public IP (105.116.19.230)  
+> 🏠 **Lab Setup**: Ubuntu 22.04 LTS, MikroTik Router 
 > 📅 Last Updated: January 12, 2026
 
 ---
 
 > 💡 **Pro Tip**: Always test Samba changes in a **non-production environment** first!
 
-```
 
 ---
