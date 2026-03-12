@@ -1,5 +1,0 @@
-yum install net-tools -y
-
-yum install vim -y
-
-vim /etc/selinux/config
