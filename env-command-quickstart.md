@@ -38,6 +38,18 @@ source /etc/kolla/admin-openrc.sh
     ```
 
 2.  **Add the following function at the end of the file:**
+    
+    #### Basic Configuration
+    
+    ```
+    kolla-env() {
+    echo "Activating Kolla Venv and OpenStack RC..."
+    source /opt/venv-kolla/bin/activate
+    source /etc/kolla/admin-openrc.sh
+    echo "Done! Ready to use OpenStack CLI."
+    }
+    ```
+    #### Advanced Configuration
     ```bash
     # Function to load Kolla OpenStack Environment
     kolla-env() {
