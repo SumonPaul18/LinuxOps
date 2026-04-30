@@ -213,7 +213,7 @@ rclone mount gdrive: /home/sumon/Desktop/Note --drive-root-folder-id 1D8YoyShlbR
 
 ---
 
-## 9. Verification and Operational Usage
+## 7. Verification and Operational Usage
 
 After mounting, verify that the integration is working correctly from both the command line and the graphical interface.
 
